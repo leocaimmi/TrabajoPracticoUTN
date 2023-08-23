@@ -1,0 +1,288 @@
+# depslib dependency file v1.0
+1692343035 source:c:\users\usuario\desktop\tpestudiantes\verificaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692341345 c:\users\usuario\desktop\tpestudiantes\funciones.h
+
+1692341345 c:\users\usuario\desktop\tpestudiantes\menu.h
+
+1692343035 c:\users\usuario\desktop\tpestudiantes\verificaciones.h
+
+1692341919 source:c:\users\usuario\desktop\tpestudiantes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692341919 source:c:\users\usuario\desktop\tpestudiantes\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692342400 source:c:\users\usuario\desktop\tpestudiantes\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692299898 source:g:\facu\c\2do cuatrimestre\tpestudiantes\version 1.0\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692299898 g:\facu\c\2do cuatrimestre\tpestudiantes\version 1.0\funciones.h
+
+1692299637 g:\facu\c\2do cuatrimestre\tpestudiantes\version 1.0\menu.h
+
+1692297311 g:\facu\c\2do cuatrimestre\tpestudiantes\version 1.0\verificaciones.h
+
+1692298225 source:g:\facu\c\2do cuatrimestre\tpestudiantes\version 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692299966 source:g:\facu\c\2do cuatrimestre\tpestudiantes\version 1.0\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692299637 source:g:\facu\c\2do cuatrimestre\tpestudiantes\version 1.0\verificaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692298225 source:c:\users\gc\desktop\version 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692314935 c:\users\gc\desktop\version 1.0\funciones.h
+
+1692299637 c:\users\gc\desktop\version 1.0\menu.h
+
+1692297311 c:\users\gc\desktop\version 1.0\verificaciones.h
+
+1692314935 source:c:\users\gc\desktop\version 1.0\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692311292 source:c:\users\gc\desktop\version 1.0\verificaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692314836 source:c:\users\gc\desktop\version 1.0\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692410209 source:c:\users\gc\desktop\version 1.2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692410666 c:\users\gc\desktop\version 1.2\funciones.h
+
+1692403631 c:\users\gc\desktop\version 1.2\menu.h
+
+1692297311 c:\users\gc\desktop\version 1.2\verificaciones.h
+
+1692298225 source:c:\users\gc\desktop\version 1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692314948 source:c:\users\gc\desktop\version 1.2\verificaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692410209 source:c:\users\gc\desktop\version 1.2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692546581 source:g:\facu\c\2do cuatrimestre\tpestudiantes\version 1.3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692502463 g:\facu\c\2do cuatrimestre\tpestudiantes\version 1.3\funciones.h
+
+1692501840 g:\facu\c\2do cuatrimestre\tpestudiantes\version 1.3\menu.h
+
+1692415187 g:\facu\c\2do cuatrimestre\tpestudiantes\version 1.3\verificaciones.h
+
+1692298225 source:g:\facu\c\2do cuatrimestre\tpestudiantes\version 1.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692546597 source:g:\facu\c\2do cuatrimestre\tpestudiantes\version 1.3\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692415465 source:g:\facu\c\2do cuatrimestre\tpestudiantes\version 1.3\verificaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692553976 source:c:\users\gc\desktop\version 1.5\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692553969 c:\users\gc\desktop\version 1.5\funciones.h
+
+1692501840 c:\users\gc\desktop\version 1.5\menu.h
+
+1692415187 c:\users\gc\desktop\version 1.5\verificaciones.h
+
+1692298225 source:c:\users\gc\desktop\version 1.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692553110 source:c:\users\gc\desktop\version 1.5\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692553478 source:c:\users\gc\desktop\version 1.5\verificaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692554111 source:c:\users\gc\desktop\version 1.6\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692553969 c:\users\gc\desktop\version 1.6\funciones.h
+
+1692501840 c:\users\gc\desktop\version 1.6\menu.h
+
+1692415187 c:\users\gc\desktop\version 1.6\verificaciones.h
+
+1692298225 source:c:\users\gc\desktop\version 1.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692553110 source:c:\users\gc\desktop\version 1.6\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
+1692553478 source:c:\users\gc\desktop\version 1.6\verificaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"menu.h"
+	"verificaciones.h"
+
